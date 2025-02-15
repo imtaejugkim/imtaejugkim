@@ -1,5 +1,5 @@
 
-## 안녕하세요! 도전에 두려워하지 않는 개발자, 김태정입니다! 👋
+## 안녕하세요! 김태정입니다! 👋
 
 [![taejung kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtaejugkim)](https://github.com/imtaejugkim/github-readme-stats)
 
